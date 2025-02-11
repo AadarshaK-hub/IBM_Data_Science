@@ -2,7 +2,7 @@
 
 Hello. This is my repository for my courses on IBM Data Science Certificate.
 
-This repo contains/will contain all of my course excersies, some of my personal projects and details as I progress through the certification.
+This repository contains/will contain all of my course excersies, some of my personal projects and details as I progress through the certification.
 
 
 ## Course Progress:
